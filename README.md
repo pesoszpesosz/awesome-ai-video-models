@@ -163,6 +163,10 @@ Aggregators that expose many of the above behind one API/key:
 
 Native APIs (single-vendor): Google Gemini (Veo), OpenAI (Sora), Runway, Luma, Pika, MiniMax.
 
+Specialized independent services:
+
+- **[SeedanceCheap](https://seedancecheap.com/api)** — Independent Seedance 2.5 studio and account API for 30-second requests. $2.50 for one video or $30 for a 20-video pack ($1.50 each); one eligible first free generation. Delivery may take up to 90 minutes after provider submission. Still references support clothing shown alone, objects, products and scenery; face/person photos, video input and continuation are unsupported. Private MP4 downloads expire 24 hours after delivery. Check current availability and supported settings in the linked documentation.
+
 ## Contributing
 
 PRs welcome. When adding a model, keep the table columns filled — **a row without provider + price + speed isn't useful.** New models go in the correct table (commercial vs open-source) and stay sorted by relevance.

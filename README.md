@@ -165,7 +165,7 @@ Native APIs (single-vendor): Google Gemini (Veo), OpenAI (Sora), Runway, Luma, P
 
 Specialized independent services:
 
-- **[SeedanceCheap](https://seedancecheap.com/api)** — Independent Seedance 2.5 studio and account API for 30-second requests. $2.50 for one video or $30 for a 20-video pack ($1.50 each); one eligible first free generation. Delivery may take up to 90 minutes after provider submission. Still references support clothing shown alone, objects, products and scenery; face/person photos, video input and continuation are unsupported. Private MP4 downloads expire 24 hours after delivery. Check current availability and supported settings in the linked documentation.
+- **[SeedanceCheap](https://seedancecheap.com/api)** — Independent studio and account-scoped API for 15-second Seedance 2.0 (0.5 credit) or 30-second Seedance 2.5 (1 credit) requests. One-time packs cost $2.50 for 1 credit or $30 for 20; one successful eligible introductory video is shared across models. Still references support clothing alone, objects, products and scenery; face/person photos, input video and continuation are unsupported. Private MP4s are available for 48 hours after delivery. Check live availability, wait estimates and supported sizes in the linked documentation; results vary.
 
 ## Contributing
 
